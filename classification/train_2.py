@@ -1,9 +1,4 @@
 """
-train_simple_classifier.py
-
-Очень простой скрипт для дообучения ResNet-18 (freeze backbone + train head)
-на задаче бинарной классификации «визитка / не‐визитка».
-
 Usage:
     python train_simple_classifier.py \
         --data_dir /path/to/dataset \
